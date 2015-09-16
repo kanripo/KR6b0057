@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 撰集百緣經
+#+DATE: 2015-08-30 19:35:36.704371
+#+PROPERTY: JUAN 0
